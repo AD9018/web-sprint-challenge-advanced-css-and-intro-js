@@ -172,7 +172,7 @@ button:hover{
       object-fit: cover;
       display: block;
       margin: 2%;
-      margin-top: 4%;
+      margin-top: .1%;
       margin-left: auto;
       margin-right: auto;
       border-radius: 2%;
@@ -184,8 +184,11 @@ button:hover{
   /*HEADER STYLES */
   header nav{
       display:flex;
-      flex-flow: column;
-      align-items:center;
+      flex-flow: row wrap;
+      justify-content:space-between;
+      width:60%
+
+
 
 
 
@@ -195,7 +198,8 @@ button:hover{
 
 header{
   display:flex;
-  align-content:space-around;
+
+
 
 }
 
@@ -231,7 +235,7 @@ header{
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      height:60vh;
+      height:40vh;
       margin:4% 0;
 
   }
@@ -239,9 +243,10 @@ header{
       opacity: 80%;
   }
   .title-container hr{
-      width:90%;
-      border:.01px dashed white;
-      margin-bottom: .1em;
+      width:100%;
+      border:1px solid gray;
+      margin-bottom: 2em;
+
 
   }
   button{
@@ -276,11 +281,11 @@ header{
     .artists-container {
       display:flex;
       flex-flow: column wrap;
-      width:100%;
+      width:70%;
       margin:0 auto;
       justify-content: flex-end;
       align-content: center;
-        border:1px solid black;
+
 
 
 
