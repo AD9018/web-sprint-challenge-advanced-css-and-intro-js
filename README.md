@@ -23,10 +23,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+Acessibilty is using alt tags as well as semantic HTML, media quiries help along with the mata veiwport tag in terms of making a website more responsive. Screen readers help by not filtering certain people that have impairments.
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+To make your website accesible you can add a screen reader, use semantic html and alt tags to designate or help the person that might have an issue viewing the code, as well as other developers and making it easier for them if you are working on a team. 
 3. How would you explain the concept of a variable to someone new to programming?
+Variable is a foo-bar name meaning you can name a variable what you would like but be descriptive. It is a placeholder/name convention. 
 4. What is the purpose of using functions in code?
-
+Functions are like small programs that you can make to make certain things easier instead of writing all of the code in the function you can simply invoke or call the function. 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
